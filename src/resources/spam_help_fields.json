@@ -1,0 +1,40 @@
+{
+    "data" : [
+        {
+            "name": "Format: !!spam <type> <length>",
+            "value": "- <type> represents type of spam\n        - <length> represents number of characters of spam\n        - <length> must be less than 1010\n        * `!!spam javanese 420`\n\r** ** ** **"
+        },
+        {
+            "name": "__**Types:**__\nemoji",
+            "value": "- see `!!help spam emoji`\n\r** ** ** **"
+        },
+        {
+            "name": "english",
+            "value": "EcAfbyjFQtBPxekRsoFflhLZzCPXRiJUClsKcQjTjvsaLjkJjRUmJpFvqOLRBaZiruSQVEMdXfNXNRtqMojhjZDfZvbXwnWJXYJIBPcsTODOtfUfNTfEpsWa\n\r** ** ** **"
+        },
+        {
+            "name": "javanese",
+            "value": "꦳ꦹ꧃꧕꧃꧃꧓꧌ꦴꦾꦺ꧌ꦿ꧁꧃ꦁ꧃ꦿꦸꦴ꧂ꦵ꧆꧒꧄ꦴꦽꦀꦊꦼꦋꦷꦀꦼꦎꦺ꧄ꦺ꧊꧂ꦊꦹ꧅꧀꧃ꦶꦎ꧊꧒꧁ꦃꦼ꧆ꦹ꧅ꦷꦁꦷ꧅ꦊ꧄꧁ꦊꦴꦀ꧌ꦾꦂ꧄꧄ꦁ꧋ꦿꦋꦈ꧌꦳ꦋꦹꦷ꧒꧒ꦁꦎꦈꦋꦂ꧕ꦽꦂꦾ꧁\n\r** ** ** **"
+        },
+        {
+            "name": "ascii",
+            "value": "L9pz8ZUR6rtAFT9TuA=r'TWJ2(Ys8!${[5)LY2+4o@eK:>L2@{@I8]B!_J|o#vCV_;:3r%(lf1)_fEb\"8FPkvxj2J&idX$D{q(!LO?;1'Lm'z^tHwvW`\n\r** ** ** **"
+        },
+        {
+            "name": "numbers",
+            "value": "0180385138185700904978294937547303999773727838853717497035540747347514907097472274398448418787759977\n\r** ** ** **"
+        },
+        {
+            "name": "asciisymbols",
+            "value": "@;=*(]/^|#>~>&=.,=),)^!#\"|[@{>$({:~\",[}\":>-'#'<!}-:/_|+^?<>@-=]+<;!%[};(\"[.~=_--;%*[.):=>~/$`\n\r** ** ** **"
+        },
+        {
+            "name": "altcodes",
+            "value": "™òûç÷¹¼ÍóîÃƒÛÃ²£´¾¨¯êùí™¾ôµ¦š‘ôÔÐ¿ãŸéì½±Â€Ö²²ñ™óØúŒ—°¼ó¼î¯¸¾ìŠ”ä°ÑúÓ˜Ðßá¯îÂÑàPä“‰–âõ™Ü•¹ÙÏ›¥ðõÇ®ã·‰Æ\n\r** ** ** **"
+        },
+        {
+            "name": "astrology",
+            "value": "♆♈♎♃⊕☉♑⊕♄♊♐︎♃⛢♀♁♍♍♇♋♊♌♎♆♌♌♐♒♐♓☽♄♍♃♃♍︎☉♒♊♂♐⚳♒♊♎♇☉♌︎⊕♄⛢️⚳♋⚳♑♓♑♃♏♍♂♌♅♓♌♅⛢♅♊♅☽⛢︎♌♊♓♑♃♌♇\n\r** ** ** **"
+        }
+    ]
+}
